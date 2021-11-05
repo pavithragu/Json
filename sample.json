@@ -1,37 +1,43 @@
 {
-    "Sharanya": {
-        "08:35": "Chennai",
-        "09:00": "Salem",
-        "09:25": "Erode",
-        "09:50": "Tiruppur",
-        "10:20": "Coimbatore"
+  "busList":[
+    {
+      "busName":"Sharanya",
+      "busNumber":"TN 29 AM 2008",
+      "busType":"Private Bus",
+      "busCapacity":"55+2",
+      "busSchedule":[
+        "06:30 Dharmapuri",
+        "06:45 Maniyampadi",
+        "07:00 Kadathur",
+        "07:20 Bommidi",
+        "07:45 Pappireddipatti"
+      ]
     },
-    "DNC": {
-        "08:35": "Kanniyakumari",
-        "09:00": "Tutikorin",
-        "09:25": "Namakkal",
-        "09:50": "Trichy",
-        "10:20": "Madurai"
+    {
+      "busName":"DNC",
+      "busNumber":"TN 29 AM 2658",
+      "busType":"Private Bus",
+      "busCapacity":"54+2",
+      "busSchedule":[
+        "06:30 Chennai",
+        "06:45 Kancheepuram",
+        "07:00 Vellore",
+        "07:20 Thiruvannamalai",
+        "07:45 Dharmapuri"
+      ]
     },
-    "Balamurugan": {
-        "08:35": "Thiruvallur",
-        "09:00": "Dharmapuri",
-        "09:25": "Krishnagiri",
-        "09:50": "Hosur",
-        "10:20": "Kadathur"
-    },
-    "Selvi": {
-        "08:35": "Dharmapuri",
-        "09:00": "Kadathur",
-        "09:25": "Bommidi",
-        "09:50": "Pappireddipatti",
-        "10:20": "Pallipatti"
-    },
-    "Senthil": {
-        "08:35": "Menasi",
-        "09:00": "Molayanur",
-        "09:25": "Thurinjipatti",
-        "09:50": "Nadur",
-        "10:20": "London"
+    {
+      "busName":"Selvi",
+      "busNumber":"TN 29 AM 7865",
+      "busType":"Private Bus",
+      "busCapacity":"53+2",
+      "busSchedule":[
+        "06:30 Kadathur",
+        "06:45 Thonganur",
+        "07:00 Sinthalpadi",
+        "07:20 Morappur",
+        "07:45 Harur"
+      ]
     }
+  ]
 }
