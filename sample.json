@@ -1,4 +1,18 @@
 {
+  "ads":[
+    {
+      "adImageUrl":"https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/08/hug-kiss-images.jpg",
+      "adLinkUrl":"https://wa.me/918807079366/"
+    },
+    {
+      "adImageUrl":"http://www.goodmorningimagesdownload.com/wp-content/uploads/2020/06/Alone-Boys-Girls-Images-6.jpg",
+      "adLinkUrl":"https://wa.me/918807079366/"
+    },
+    {
+      "adImageUrl":"https://www.drivespark.com/images/2021-03/volvo-c40-recharge-17.jpg",
+      "adLinkUrl":"https://wa.me/918807079366/"
+    }
+  ],
   "busList":[
     {
       "busName":"Sharanya",
