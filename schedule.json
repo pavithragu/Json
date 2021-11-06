@@ -1,0 +1,43 @@
+{
+  "busList":[
+    {
+      "busName":"Sharanya",
+      "busNumber":"TN 29 AM 2008",
+      "busType":"Private Bus",
+      "busCapacity":"55+2",
+      "busSchedule":[
+        "06:30 Dharmapuri",
+        "06:45 Maniyampadi",
+        "07:00 Kadathur",
+        "07:20 Bommidi",
+        "07:45 Pappireddipatti"
+      ]
+    },
+    {
+      "busName":"DNC",
+      "busNumber":"TN 29 AM 2658",
+      "busType":"Private Bus",
+      "busCapacity":"54+2",
+      "busSchedule":[
+        "06:30 Chennai",
+        "06:45 Kancheepuram",
+        "07:00 Vellore",
+        "07:20 Thiruvannamalai",
+        "07:45 Dharmapuri"
+      ]
+    },
+    {
+      "busName":"Selvi",
+      "busNumber":"TN 29 AM 7865",
+      "busType":"Private Bus",
+      "busCapacity":"53+2",
+      "busSchedule":[
+        "06:30 Kadathur",
+        "06:45 Thonganur",
+        "07:00 Sinthalpadi",
+        "07:20 Morappur",
+        "07:45 Harur"
+      ]
+    }
+  ]
+}
