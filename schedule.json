@@ -1,8 +1,43 @@
 {"busList":[
-
-{"busName":"Sharanya","busNumber":"TN 29 AM 2008","busType":"Private Bus","busCapacity":"55+2","busSchedule":["06:30 Dharmapuri","06:45 Maniyampadi","07:00 Kadathur","07:20 Bommidi","07:45 Pappireddipatti"]},
-{"busName":"DNC","busNumber":"TN 29 AM 2658","busType":"Private Bus","busCapacity":"54+2","busSchedule":["06:30 Chennai","06:45 Kancheepuram","07:00 Vellore","07:20 Thiruvannamalai","07:45 Dharmapuri"]},
-{"busName":"Selvi","busNumber":"TN 29 AM 7865","busType":"Private Bus","busCapacity":"53+2","busSchedule":["06:30 Kadathur","06:45 Thonganur","07:00 Sinthalpadi","07:20 Morappur","07:45 Harur"]},
-{"busName":"RR Transports","busNumber":"TN 29 AM 2099","busType":"Private Bus","busCapacity":"55+2","busSchedule":["06:30 Dharmapuri","07:05 Kadathur","07:30 Bommidi","07:50 Pappireddipatti","08:30 Harur","09:05 Pappireddipatti","09:30 Bommidi","10:15 Kadathur","10:45 Dharmapuri","11:15 Kadathur","12:30 Bommidi","13:10 Pappireddipatti","14:00 Harur","14:25 Pappireddipatti","15:00 Bommidi","15:25 Kadathur","15:53 Dharmapuri","16:05 Kadathur","16:30 Bommidi","16:45 Pappireddipatti","17:20 Harur","17:45 Pappireddipatti","18:10 Bommidi","18:35 Kadathur","18:55 Dharmapuri","19:05 Kadathur","19:30 Bommidi","20:00 Pappireddipatti","21:25 Harur","21:43 Pappireddipatti","22:10 Bommidi","23:35 Kadathur","23:55 Dharmapuri"]}
+   {
+      "busName":"Maishri Bus Service",
+      "busNumber":"TN 29 AM 2099",
+      "busType":"Private Bus",
+      "busCapacity":"55+2",
+      "busSchedule":[
+        "00:45 Kancheepuram",
+        "03:30 Kadathur",
+        "08:45 Ramiyampatti",
+        "09:30 Pallapatti",
+        "11:00 Harur",
+        "13:00 Dharmapuri",
+        "14:30 Morppur",
+        "17:15 Pappireddipatti",
+        "18:30 Jammanapatti",
+        "20:00 Koattapatti",
+        "21:30 Bedhur",
+        "22:00 Bommidi"
+      ]
+  },
+  {
+      "busName":"Thirumalai Bus Service",
+      "busNumber":"TN 29 AM 2099",
+      "busType":"Private Bus",
+      "busCapacity":"55+2",
+      "busSchedule":[
+        "00:45 Pennagaram",
+        "03:30 Hogenakkal",
+        "08:45 Thiruppattur",
+        "09:30 Dhindukkal",
+        "11:00 Tutikorin",
+        "13:00 Madurai",
+        "14:30 Chennai",
+        "17:15 Salem",
+        "18:30 Erode",
+        "20:00 Coimbatore",
+        "21:30 Kadathur",
+        "22:00 Harur"
+      ]
+  }
 
 ]}
