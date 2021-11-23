@@ -1,7 +1,4 @@
 {"busList":[
-
 {"busName":"Maima Transports","busSchedule":["06:30 Kadathur","06:35 Dhindalanur","06:40 Nadur","06:45 Sillarahalli","06:50 Sungarahalli","06:55 Jaaliyur","07:00 Bommidi"]}
 
-], "help":[
-{"name":"App admin", "number":"8807079366"}
-]}
+],"help":[{"name":"Fire","number":"101"},{"name":"Police","number":"100"},{"name":"Ambulance","number":"108"},{"name":"Road Accident","number":"1073"},{"name":"App Admin","number":"8807079366"},{"name":"Control Room of District Collector","number":"1077"}]}
