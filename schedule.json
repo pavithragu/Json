@@ -1,5 +1,24 @@
 {"busList":[
-{"busName":"Maima Transports","busSchedule":["06:30 Kadathur","06:35 Dhindalanur","06:40 Nadur","06:45 Sillarahalli","06:50 Sungarahalli","06:55 Jaaliyur","07:00 Bommidi"]}
+{"busName":"Thirumalai Dheivam","busSchedule":[
+  "05:30 Dharmapuri",
+  "05:40 Solakkottai",
+  "05:45 Semmanahalli",
+  "05:50 Odasalpatti X-Road",
+  "05:55 Maniyampadi",
+  "06:00 Kadathur",
+  "06:05 Puliyampatti",
+  "06:15 Sillarahalli",
+  "06:20 Sungarahalli",
+  "06:25 Jaaliyur",
+  "06:30 Bommidi",
+  "06:35 Thurinjippatti Nadur",
+  "06:38 Thurinjippatti",
+  "06:40 Oddupallam",
+  "06:48 B Pallipatti",
+  "06:55 Bayarnaththam",
+  "07:00 Molayanur",
+  "07:10 Pappireddipatti",
+  "08:20 Salem"]}
 
 
 ],"help":[
