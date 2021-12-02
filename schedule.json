@@ -1,24 +1,5 @@
 {"busList":[
-{"busName":"Thirumalai Dheivam","busSchedule":[
-  "05:30 Dharmapuri",
-  "05:40 Solakkottai",
-  "05:45 Semmanahalli",
-  "05:50 Odasalpatti X-Road",
-  "05:55 Maniyampadi",
-  "06:00 Kadathur",
-  "06:05 Puliyampatti",
-  "06:15 Sillarahalli",
-  "06:20 Sungarahalli",
-  "06:25 Jaaliyur",
-  "06:30 Bommidi",
-  "06:35 Thurinjippatti Nadur",
-  "06:38 Thurinjippatti",
-  "06:40 Oddupallam",
-  "06:48 B Pallipatti",
-  "06:55 Bayarnaththam",
-  "07:00 Molayanur",
-  "07:10 Pappireddipatti",
-  "08:20 Salem"]}
+{"busName":"Karthikeyan","busSchedule":["05:00 Dharmapuri","05:20 Semmanahalli","05:25 Odasalpatti X Road","05:30 Maniyampadi","05:35 Kadathur","05:38 Puliyampatti","05:41 Sillarahalli","05:44 Sungarahalli","05:47 Nathamedu","05:50 Regadahalli","05:52 Jaaliyur","05:55 Bommidi Maempaalam","06:00 Bommidi","06:03 Thurinjipatti Nadur","06:05 Thurinjipatti HS","06:07 Thurinjipatti","06:09 Oddupallam","06:12 B Pallipatti","06:15 Bayarnatham","06:18 Dhevaraja Palayam","06:21 Molayanur","06:23 Poonayanur","06:25 Vengadasamuthiram 4 Road","06:27 Vengadasamuthiram","06:29 Pappireddipatti GH","06:32 Pappireddipatti PS","06:35 Pappireddipatti","06:50 Pappireddipatti","06:53 Pappireddipatti PS","06:56 Pappireddipatti GH","06:58 Vengadasamuthiram","07:00 Vengadasamuthiram 4 Road","07:02 Poonayanur","07:04 Molayanur","07:07 Dhevaraja Palayam","07:10 Bayarnatham","07:13 B Pallipatti","07:16 Oddupallam","07:18 Thurinjipatti","07:20 Thurinjipatti HS","07:22 Thurinjipatti Nadur","07:25 Bommidi","07:30 Bommidi Maempaalam","07:33 Jaaliyur","07:35 Regadahalli","07:37 Nathamedu","07:39 Sungarahalli","07:41 Sillarahalli","07:43 Puliyampatti","07:45 Kadathur","07:50 Maniyampadi","07:55 Odasalpatti X Road","08:00 Semmanahalli","08:20 Dharmapuri","08:50 Dharmapuri","09:10 Semmanahalli","09:15 Odasalpatti X Road","09:20 Maniyampadi","09:25 Kadathur","09:28 Puliyampatti","09:31 Sillarahalli","09:34 Sungarahalli","09:37 Nathamedu","09:40 Regadahalli","09:42 Jaaliyur","09:45 Bommidi Maempaalam","09:50 Bommidi","09:53 Thurinjipatti Nadur","09:55 Thurinjipatti HS","09:57 Thurinjipatti","09:59 Oddupallam","10:02 B Pallipatti","10:05 Bayarnatham","10:08 Dhevaraja Palayam","10:11 Molayanur","10:13 Poonayanur","10:15 Vengadasamuthiram 4 Road","10:17 Vengadasamuthiram","10:19 Pappireddipatti GH","10:22 Pappireddipatti PS","10:25 Pappireddipatti"]}
 
 
 ],"help":[
@@ -30,6 +11,4 @@
 {"name":"Child Helpline","number":"1098"},
 {"name":"Sexual Harashment","number":"1091"},
 {"name":"Control Room of District Collector","number":"1077"},
-{"name":"State Control Room","number":"1070"}
-
-]}
+{"name":"State Control Room","number":"1070"}]}
